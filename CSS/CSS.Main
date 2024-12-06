@@ -1,1 +1,13 @@
-
+<Style> 
+  h1
+{
+   margin: 40px 30px; 
+   padding: 20px 625px 40px;
+   background-color: rgb(125, 200, 255);
+   font: 35pt impact, Serif;
+}
+h2 
+{
+  font: 25pt impact, Serif;
+}
+</Style>
