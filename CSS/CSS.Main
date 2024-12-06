@@ -1,5 +1,4 @@
-<Style> 
-  h1
+h1
 {
    margin: 40px 30px; 
    padding: 20px 625px 40px;
@@ -10,4 +9,3 @@ h2
 {
   font: 25pt impact, Serif;
 }
-</Style>
