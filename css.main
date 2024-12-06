@@ -1,12 +1,12 @@
 h1 {
    margin: 40px 30px;
-   padding: 20px 625px 40px 0; /* Explicit left padding */
+   padding: 20px 625px 40px 0; 
    background-color: rgb(125, 200, 255);
-   font-size: 35px; /* Use px for font size */
-   font-family: impact, serif; /* Lowercase font family */
+   font-size: 35px; 
+   font-family: impact, serif; 
 }
 
 h2 {
-   font-size: 25px; /* Use px for font size */
-   font-family: impact, serif; /* Lowercase font family */
+   font-size: 25px;
+   font-family: impact, serif; 
 }
