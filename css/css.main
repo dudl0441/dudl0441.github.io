@@ -9,7 +9,6 @@ h1 {
    font-size: 35px; 
    font-family: impact, serif; 
 }
-
 h2 {
    font-size: 25px;
    font-family: impact, serif; 
