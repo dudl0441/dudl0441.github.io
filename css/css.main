@@ -13,3 +13,25 @@ h2 {
    font-size: 25px;
    font-family: impact, serif; 
 }
+:root
+ {
+  background-color: rgb(200, 200, 200);
+ }
+h1 {
+   margin: 40px 30px;
+   padding: 20px 625px 40px; 
+   background-color: rgb(125, 200, 255);
+   font-size: 35px; 
+   font-family: impact, serif; 
+}
+
+h2 {
+   font-size: 25px;
+   font-family: impact, serif; 
+}
+    img {
+   width: 250px;
+   padding: 2px;
+   border: 1px solid gray;
+   margin: 5px 10px;}
+</style>
